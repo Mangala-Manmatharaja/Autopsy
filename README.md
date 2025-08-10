@@ -1,4 +1,4 @@
-# 🧰 Autopsy 3rd Party Module Rep
+# 🧰 Autopsy 3rd Party Module Re
 
 This repository contains 3rd party add-on modules for the [Autopsy Digital Forensics Platform](http://www.autopsy.com).  
 Each module has its own folder that includes a `README.md` file explaining its purpose. Some modules are hosted in this repository, while others are linked externally.
